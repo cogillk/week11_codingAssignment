@@ -1,0 +1,27 @@
+body {
+    background-color: cornflowerblue;
+    color:floralwhite
+}
+
+
+.block {
+    height: 45px;
+    width: 45px;
+}
+
+.left {
+    border-right: 5px black solid;
+}
+
+.right {
+    border-left: 5px black solid;
+}
+
+.top {
+    border-bottom: 5px black solid;
+
+}
+
+.bottom {
+    border-top: 5px black solid;
+}
